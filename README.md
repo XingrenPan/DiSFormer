@@ -21,7 +21,7 @@ The resulting features are projected into patch tokens and processed by a standa
 ### Overall DiSFormer Framework
 
 <p align="center">
-  <img src="assets/DGA.png" alt="Overall framework of DiSFormer" width="850">
+  <img src="assets/DiSFormer.png" alt="Overall framework of DiSFormer" width="850">
 </p>
 
 <p align="center"><em>Figure 2. Overall framework of DiSFormer.</em></p>
@@ -29,7 +29,7 @@ The resulting features are projected into patch tokens and processed by a standa
 ### Directional Gated Aggregation (DGA)
 
 <p align="center">
-  <img src="assets/DiSFormer.png" alt="Directional Gated Aggregation pathway" width="850">
+  <img src="assets/DGA.png" alt="Directional Gated Aggregation pathway" width="850">
 </p>
 
 <p align="center"><em>Figure 3. Overview of the DGA pathway.</em></p>
