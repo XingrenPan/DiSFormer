@@ -1,3 +1,5 @@
+> **This paper has been accepted for publication in *Computers & Industrial Engineering*.**
+
 # DiSFormer
 
 Official PyTorch implementation of:
@@ -90,7 +92,7 @@ cd DiSFormer
 pip install torch timm
 ```
 
-## Model Usage
+## Model Usage Example
 
 ```python
 from classic_models.disformer import disformer_base_patch16_224
@@ -108,7 +110,7 @@ The study evaluates DiSFormer on three public tomato quality datasets:
 
 ## Evaluation Protocol
 
-The experiments in the paper use a 10-fold cross-validation protocol. For binary classification, the decision threshold is selected on the validation set using Youden's J statistic.
+The experiments in the paper use a 10-fold cross-validation protocol. For more details, please see the paper.
 
 ## Citation
 
