@@ -117,10 +117,14 @@ The experiments in the paper use a 10-fold cross-validation protocol. For more d
 If you find this repository useful, please cite the corresponding paper:
 
 ```bibtex
-@article{pan_disformer,
-  title   = {DiSFormer: A Directional--Statistical Embedding Mechanism for Vision Transformer in Tomato Quality Classification},
+@article{pan2026disformer,
+  title   = {DiSFormer: A directional--statistical embedding mechanism for Vision Transformer in tomato quality classification},
   author  = {Pan, Xingren and Jie, Ferry and McMahon, Kathryn and Hu, Kun},
-  year    = {2026}
+  journal = {Computers \& Industrial Engineering},
+  year    = {2026},
+  pages   = {112404},
+  doi     = {10.1016/j.cie.2026.112404},
+  url     = {https://doi.org/10.1016/j.cie.2026.112404}
 }
 ```
 
