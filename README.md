@@ -128,8 +128,6 @@ If you find this repository useful, please cite the corresponding paper:
 }
 ```
 
-The bibliographic entry will be updated with the final publication information when available.
-
 ## License
 
 This repository is released for academic and research use. Please cite the paper if you use the code or build upon this work.
