@@ -1,6 +1,6 @@
 # DiSFormer
 
-> **This paper has been accepted for publication in *Computers & Industrial Engineering*.**
+**[Paper](https://www.sciencedirect.com/science/article/pii/S0360835226006054)** | *Computers & Industrial Engineering*
 
 Official PyTorch implementation of:
 
